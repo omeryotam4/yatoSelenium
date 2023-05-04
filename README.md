@@ -1,6 +1,8 @@
 # yatoSelenium
-This code is shown as part of SciFiDevCon 2023.
-It's accompanying the plot of my Noragami presentation, and includes the basic process that was executed on a Mentimeter presentation I built specifically for the story.
+This code is shown as part of SciFiDevCon 2023.<br>
+https://www.scifidevcon.com/courses/2023-may-the-fourth-event/contents/6445c55ca30be
+
+It's accompanying the plot of my Noragami presentation, and includes the basic process that was executed on a Mentimeter presentation I built specifically for the story.<br>
 To recreate the website, you can create a word cloud with 3 options in the mentimeter website- it's free!
 An important step is to change the link in all driver.get() commands to your own link.
 The original link should be running up to a week from the presentation day, meaning May 17, 2023.
